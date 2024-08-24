@@ -8,7 +8,7 @@ let msgShow=document.querySelector(".msg-show");
 let apiCityName;
 
 
-let apiKey="af9359f13197c5aad202cdf141e82b8f";
+let apiKey="YOUR API KEy";
   
    let api="https://api.openweathermap.org/data/2.5/weather?units=metric&q="
   
